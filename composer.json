@@ -1,0 +1,18 @@
+{
+    "name": "ilopez/authrocket-php",
+    "description": "A PHP Library for connecting to AuthRocket.",
+    "minimum-stability": "dev",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Israel Lopez",
+            "email": "israel@ilopez.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "4.2.1",
+        "guzzlehttp/command": "0.6.0",
+        "guzzlehttp/retry-subscriber": "1.0.0",
+        "guzzlehttp/guzzle-services": "0.3.0"
+    }
+}
